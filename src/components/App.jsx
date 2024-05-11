@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <>
-      <div className="container mt-3">
+      <div className="container mt-3 ">
         <form>
           <div className="row">
             <div className="col-3">
